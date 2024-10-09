@@ -14,7 +14,7 @@ import {
 
 function App() {
   return (
-    <Router basename="/efarma">
+    <Router basename="/epharma">
       <Routes>
         <Route
           path="/"
