@@ -1,0 +1,17 @@
+.brand-container{
+    padding: 20px 13%;
+}
+.brand-pics{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.pic-text {
+    padding: 10px;
+}
+.pic-text img{
+    width: 140px;
+    height: 160px;
+    border-radius: 50%;
+}

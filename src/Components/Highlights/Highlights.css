@@ -1,0 +1,36 @@
+.High-container{
+    padding: 20px 13%;
+    background-color: rgb(63, 162, 246);
+}
+.high-medcines{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.high-medcines .high-card{
+    background-color: rgb(150, 201, 244);
+    width: 225px;
+    height: 320px;
+    border-radius: 20px;
+}
+.high-medcines .high-card img{
+    width: 190px;
+    padding: 18px;
+    border-radius: 25px;
+}
+
+.high-medcines .high-card h3{
+    padding: 0 15px;
+}
+
+.high-medcines .high-card p{
+    padding: 0 5px 0 25px;
+    width: 170px;
+    font-size: 10px;
+}
+.High-container .high-medcines a:hover{
+    color: azure;
+    
+}
