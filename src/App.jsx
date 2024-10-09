@@ -14,9 +14,8 @@ import {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/efarma">
       <Routes>
-        {/* Home page route that contains all components */}
         <Route
           path="/"
           element={
